@@ -1,6 +1,6 @@
-# 📊 IMDB Movie Data Analysis
+# 📊 IMDb Movie Data Analysis
 
-![Project Banner](path-to-your-image/banner.png)
+![Project Banner](https://github.com/saifalibaig/IMDB-Movie-Data-Analysis-Using-Python/blob/main/dataset-cover.png)
 
 ## 🌟 Overview
 This project analyzes IMDb movie data to extract valuable insights using Python. It leverages powerful libraries like Pandas, Matplotlib, Seaborn, and others to explore trends, correlations, and patterns in the dataset.
