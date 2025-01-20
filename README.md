@@ -29,7 +29,7 @@ This project analyzes IMDb movie data to extract valuable insights using Python.
   - `Revenue`: Money generated
   - `Adult`: Is it for adults
   - `Budget`: Amount spent on production
-  - `Imdb_id`: 
+  - `Imdb_id`: Movie ID
   - `Original_language`: Language spoken in the movie
        '
 
