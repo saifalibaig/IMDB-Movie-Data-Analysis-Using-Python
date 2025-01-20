@@ -59,3 +59,19 @@ Here are some sample visualizations generated during the analysis:
 
 ### 3. Trend In IMDB Rating
 ![Trend In IMDB Rating](https://github.com/saifalibaig/IMDB-Movie-Data-Analysis-Using-Python/blob/7f4db3fe60caae3a202c007cf481434dd3a93982/assets2.PNG)
+
+---
+
+## 📋 Summary & Conclusion
+
+### Insights:
+After analyzing the **1 million+ records** in the dataset, we arrived at the following conclusions:
+
+1. The dataset contains no data related to the **director/directors** of the movies that have been released.
+2. The dataset includes **many outliers**, such as release dates extending to the year **2099**.
+3. There are over **13,000+ combined genres** with a rating of **10**.
+4. The **runtime of movies has increased** over the past decades at a constant rate.
+5. There is **no correlation** between runtime and IMDb ratings.
+6. The **vote count and IMDb ratings** show a **weak positive correlation**.
+7. The **maximum revenue generated** by a movie in the dataset was **$4,999,999,999**.
+
