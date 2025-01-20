@@ -52,10 +52,10 @@ This project analyzes IMDb movie data to extract valuable insights using Python.
 Here are some sample visualizations generated during the analysis:
 
 ### 1.Top 10 Most Voted Movies
-![Top 10 most voted movies](assets/genre-popularity.png)
+![Top 10 most voted movies](assets.png)
 
 ### 2. Trend In Movie Runtimes 
-![Trend In Movie Runtimes ](assets/rating-distribution.png)
+![Trend In Movie Runtimes ](assets1.png)
 
 ### 3. Trend In IMDB Rating
-![Trend In IMDB Rating](assets/top-directors.png)
+![Trend In IMDB Rating](assets2.png)
