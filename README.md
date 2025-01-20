@@ -20,10 +20,24 @@ This project analyzes IMDb movie data to extract valuable insights using Python.
   - `Title`: Name of the movie
   - `Genre`: Movie genre(s)
   - `Director`: Movie director(s)
-  - `Rating`: IMDb user rating
-  - `Votes`: Number of IMDb votes
+  - `Vote_average`: IMDb user rating
+  - `Vote_count`: Number of IMDb votes
   - `Release Date`: Date of release
   - `Runtime`: Movie runtime (minutes)
+  - `Id` :  '
+  - `Status`
+  - `revenue`
+  - `adult`
+  - `budget`
+  - `imdb_id`
+  - `original_language`
+  - `popularity`
+  - `tagline`
+  - `genres`
+  - `production_companies`
+  - `production_countries`
+  - `spoken_languages`
+       '
 
 ---
 
