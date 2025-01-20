@@ -36,7 +36,7 @@ This project analyzes IMDb movie data to extract valuable insights using Python.
 4. **Are runtime and ratings correlated?**
 5. **How do the runtime vary over the year?**
 6. **What are the Top 10 most voted movies?**
-7. 
+7. **Does number of votes correlate to the IMDB rating?**
 
 ---
 
