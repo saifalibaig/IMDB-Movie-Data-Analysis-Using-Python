@@ -24,19 +24,13 @@ This project analyzes IMDb movie data to extract valuable insights using Python.
   - `Vote_count`: Number of IMDb votes
   - `Release Date`: Date of release
   - `Runtime`: Movie runtime (minutes)
-  - `Id` :  '
-  - `Status`
-  - `revenue`
-  - `adult`
-  - `budget`
-  - `imdb_id`
-  - `original_language`
-  - `popularity`
-  - `tagline`
-  - `genres`
-  - `production_companies`
-  - `production_countries`
-  - `spoken_languages`
+  - `Id` : Id in the dataset
+  - `Status` : Released or to be released
+  - `Revenue`: Money generated
+  - `Adult`: Is it for adults
+  - `Budget`: Amount spent on production
+  - `Imdb_id`: 
+  - `Original_language`: Language spoken in the movie
        '
 
 ---
