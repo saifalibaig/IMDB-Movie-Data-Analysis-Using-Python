@@ -55,7 +55,7 @@ Here are some sample visualizations generated during the analysis:
 ![Top 10 most voted movies](https://github.com/saifalibaig/IMDB-Movie-Data-Analysis-Using-Python/blob/main/assets.PNG)
 
 ### 2. Trend In Movie Runtimes 
-![Trend In Movie Runtimes ](assets1.png)
+![Trend In Movie Runtimes ](https://github.com/saifalibaig/IMDB-Movie-Data-Analysis-Using-Python/blob/main/assets1.PNG)
 
 ### 3. Trend In IMDB Rating
 ![Trend In IMDB Rating](assets2.png)
