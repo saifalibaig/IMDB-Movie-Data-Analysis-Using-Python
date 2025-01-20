@@ -58,4 +58,4 @@ Here are some sample visualizations generated during the analysis:
 ![Trend In Movie Runtimes ](https://github.com/saifalibaig/IMDB-Movie-Data-Analysis-Using-Python/blob/main/assets1.PNG)
 
 ### 3. Trend In IMDB Rating
-![Trend In IMDB Rating](assets2.png)
+![Trend In IMDB Rating](https://github.com/saifalibaig/IMDB-Movie-Data-Analysis-Using-Python/blob/7f4db3fe60caae3a202c007cf481434dd3a93982/assets2.PNG)
