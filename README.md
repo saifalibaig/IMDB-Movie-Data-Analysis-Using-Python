@@ -34,7 +34,9 @@ This project analyzes IMDb movie data to extract valuable insights using Python.
 2. **What are the highest-rated movies?**
 3. **How do IMDb ratings vary over the years?**
 4. **Are runtime and ratings correlated?**
-5. **Who are the most frequent directors and actors?**
+5. **How do the runtime vary over the year?**
+6. **What are the Top 10 most voted movies?**
+7. 
 
 ---
 
